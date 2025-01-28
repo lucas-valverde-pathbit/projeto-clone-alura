@@ -25,9 +25,7 @@ Clone este repositório:
 bash<br>
 Copy<br>
 Edit<br>
-git clone <URL_DO_REPOSITORIO><br>
-cd <NOME_DO_PROJETO><br>
-
+git clone https://github.com/lucas-valverde-pathbit/projeto-clone-alura.git<br>
 
 📄 Observações
 
